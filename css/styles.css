@@ -117,7 +117,6 @@ background-color: #188CE8;
 
 .feature-desc {
   color: var(--main-text-color);
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
   }
@@ -141,7 +140,6 @@ background-color: #188CE8;
 }
 .team-member-position {
   color: var(--main-text-color);
-  font-weight: 400;
   font-size: 16px;
   text-align: center;  
 }
@@ -176,7 +174,6 @@ background-color: #188CE8;
 
 .projects-list .project-desc {
   color: var(--main-text-color);
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.9;  
 }
@@ -199,7 +196,6 @@ background-color: #188CE8;
 }
 
 .contacts-links {
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.7;  
 }
